@@ -1,4 +1,4 @@
-# Suppose you want a message to be sent after an interval of time automatically.
+# Suppose, you want a message to be sent after an interval of time automatically.
 # then just run the following code:
 
 import pyautogui
